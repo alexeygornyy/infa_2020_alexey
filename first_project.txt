@@ -1,4 +1,4 @@
-Привет
+Hello
 
-Как дела
+How have you been?
 
